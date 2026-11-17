@@ -10,7 +10,7 @@ on:
       DEVICE_TREE:
         description: 'Custom Recovery Tree'
         required: true
-        default: 'https://github.com/araujo791/device_qcom_lahaina-ofox/tree/main'
+        default: 'https://github.com/araujo791/device_qcom_lahaina-ofox/'
       DEVICE_TREE_BRANCH:
         description: 'Custom Recovery Tree Branch'
         required: true
